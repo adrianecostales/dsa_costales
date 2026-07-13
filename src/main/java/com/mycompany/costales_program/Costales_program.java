@@ -26,7 +26,7 @@ public class Costales_program {
         
         int sum = x + y;
         
-        System.out.println("Sum is: " + sum);
+        System.out.println("Sum is: " + sum); 
         
         
     }
