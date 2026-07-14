@@ -25,9 +25,15 @@ public class Costales_program {
         int y = input.nextInt();
         
         int sum = x + y;
+        int diff = x - y;
+        int prod = x * y;
+        double quo = x / y;
+        double mod = x % y;
         
         System.out.println("Sum is: " + sum); 
-        
-        
+        System.out.println("Difference is: " + diff);
+        System.out.println("Product is: " + prod);
+        System.out.println("Quotient is: " + quo);
+        System.out.println("Modulus is: " + mod);
     }
 }
